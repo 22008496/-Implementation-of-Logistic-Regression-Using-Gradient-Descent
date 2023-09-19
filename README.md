@@ -129,8 +129,15 @@ np.mean(predict(res.x,X) == y)
 ## Output:
 
 ![Screenshot 2023-09-19 155328](https://github.com/22008496/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119476113/9310bee7-7783-448b-af0b-ff721807d114)
-
-
+![Screenshot 2023-09-19 155335](https://github.com/22008496/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119476113/981a05a4-a0e1-4b45-a200-6b620e4861bf)
+![Screenshot 2023-09-19 155346](https://github.com/22008496/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119476113/c0cb5695-90b6-4653-b421-ec205ae302d4)
+![Screenshot 2023-09-19 155359](https://github.com/22008496/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119476113/8db18984-c894-42ac-aedd-8cad0f14210c)
+![Screenshot 2023-09-19 155426](https://github.com/22008496/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119476113/5f4a976d-dd91-4c41-8940-fbf85fee722f)
+![Screenshot 2023-09-19 155434](https://github.com/22008496/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119476113/beb065d0-5d83-491d-af5c-b7fbced3bcce)
+![Screenshot 2023-09-19 155453](https://github.com/22008496/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119476113/46fb2db1-900b-40f1-91da-d8d6354f719a)
+![Screenshot 2023-09-19 155513](https://github.com/22008496/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119476113/4f963992-8aa1-4a70-b88d-761e405a458f)
+![Screenshot 2023-09-19 155522](https://github.com/22008496/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119476113/34173f4f-06d9-41d7-989f-b6a1c175e054)
+![Screenshot 2023-09-19 155531](https://github.com/22008496/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119476113/43c0c2f6-5cc9-459f-98d5-6f12ed645093)
 
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
